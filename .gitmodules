@@ -1,0 +1,3 @@
+[submodule "vendor/sub"]
+	path = vendor/sub
+	url = https://github.com/spencerbeggs/checkout-parity-fixture-submodule.git
